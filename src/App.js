@@ -10,7 +10,7 @@ import {
 
 import InfoBox from './InfoBox';
 import Map from './Map';
-
+//
 function App() {
 
   const [countries, setCountries] = useState([])
@@ -89,7 +89,7 @@ function App() {
 
           <h3>Worldwide new cases</h3>
           {/* graph */}
-          
+
         </CardContent>
       </Card>
     </div>
